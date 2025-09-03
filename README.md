@@ -72,8 +72,8 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](/screenshot2.png)
-![App Screenshot](/screenshot1.png)
+![App Screenshot](assets/screenshot2.png)
+![App Screenshot](assets/screenshot1.png)
 
 
 
