@@ -72,8 +72,8 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](assets/screenshot2.png)
-![App Screenshot](assets/screenshot1.png)
+![App Screenshot](https://github.com/Sumit-Kushwaha62/Climate/blob/main/assets/Screenshot2.png?raw=true)
+![App Screenshot](https://github.com/Sumit-Kushwaha62/Climate/blob/main/assets/Screenshot1.png?raw=true)
 
 
 
