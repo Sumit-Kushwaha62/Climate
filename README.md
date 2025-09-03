@@ -43,16 +43,15 @@
 ### 1. Clone the repo
 
 ```
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+git clone https://github.com/Sumit-Kushwaha62/Climate.git
+cd Climate
 ```
 
 ### 2. Install dependencies
 
 ```
 npm install
-# or
-yarn install
+
 ```
 
 ### 3. Add environment variables
@@ -72,6 +71,11 @@ npm run dev
 ```
 
 ## Screenshots
+
+![App Screenshot](/screenshot2.png)
+![App Screenshot](/screenshot1.png)
+
+
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sumit-kushwaha-83b608357/)
